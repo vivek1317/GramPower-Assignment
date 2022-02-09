@@ -1,0 +1,68 @@
+{
+  "pss_list": [
+    {
+      "pss_name": "Central Store-PC220",
+      "pss_id": "G2_Central Store_test",
+      "longitude": 84.9729766666688,
+      "latitude": 24.7882266666688,
+      "id": 1,
+      "rated_capacity": "Na"
+    },
+    {
+      "pss_name": "80FEETBYPASS-PC210",
+      "pss_id": "G1_B.K. Verma Road Gaya_vikram",
+      "longitude": 84.99352,
+      "latitude": 24.6980516667,
+      "id": 2,
+      "rated_capacity": "200kVA"
+    }
+  ],
+  "site_list": [
+    {
+      "feeder_id": "F2_Central Store 4_test",
+      "site_name": "Shatabdi  public school",
+      "site_id": "S11_Shatabdi  public school_test",
+      "longitude": 84.9757633333333,
+      "latitude": 24.7961016666667,
+      "id": 1
+    },
+    {
+      "feeder_id": "F2_Central Store 4_test",
+      "site_name": "Aliganj road no.25",
+      "site_id": "S12_Aliganj road no.25_test",
+      "longitude": 84.9773916666667,
+      "latitude": 24.7976466666667,
+      "id": 2
+    },
+    {
+      "feeder_id": "F2_Central Store 4_test",
+      "site_name": "Aliganj road no. 19",
+      "site_id": "S13_Aliganj road no. 19_test",
+      "longitude": 84.9788483333333,
+      "latitude": 24.7973133333333,
+      "id": 3
+    }
+  ],
+  "feeder_list": [
+    {
+      "feeder_id": "F2_Central Store 4_test",
+      "feeder_name": "FEEDER 4",
+      "feeder_code": "CS4",
+      "pss_id": "G2_Central Store_test",
+      "longitude": 84.9729766666667,
+      "latitude": 24.7882266666667,
+      "id": 1,
+      "rated_capacity": "Na"
+    },
+    {
+      "feeder_id": "F2_Pachhati More Bodh Gaya_vikram",
+      "feeder_name": "Pachhati More Bodh Gaya",
+      "feeder_code": "PBG100",
+      "pss_id": "G1_B.K. Verma Road Gaya_vikram",
+      "longitude": 84.994175,
+      "latitude": 24.701285,
+      "id": 8,
+      "rated_capacity": "100 kVA"
+    }
+  ]
+}
